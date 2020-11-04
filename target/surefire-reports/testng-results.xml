@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-29T05:22:30Z" name="Surefire suite" finished-at="2020-10-29T05:22:30Z" duration-ms="38">
+    <groups>
+    </groups>
+    <test started-at="2020-10-29T05:22:30Z" name="Surefire test" finished-at="2020-10-29T05:22:30Z" duration-ms="38">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@dd8ba08]" started-at="2020-10-29T05:22:30Z" name="NativeAppAndroid" finished-at="2020-10-29T05:22:30Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
